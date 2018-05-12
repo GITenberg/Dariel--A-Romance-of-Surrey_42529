@@ -1,0 +1,44 @@
+_repo: Dariel--A-Romance-of-Surrey_42529
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hammond, Christine M. Demain, active 1886-1910
+    aliases:
+    - Hammond, Chris
+    - Hammond, C. M. Demain (Christine M. Demain)
+    gutenberg_agent_id: '38092'
+    url: http://www.gutenberg.org/2009/agents/38092
+covers:
+- cover_type: archival
+  image_path: 42529-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Blackmore, R. D. (Richard Doddridge)
+    alias: Blackmore, Richard Doddridge
+    birthdate: 1825
+    deathdate: 1900
+    gutenberg_agent_id: '439'
+    url: http://www.gutenberg.org/2009/agents/439
+    wikipedia: http://en.wikipedia.org/wiki/R._D._Blackmore
+description: "Dariel: a romance of Surrey is a novel by R. D. Blackmore published\
+  \ in 1897. It is an adventure story set initially in Surrey before the action moves\
+  \ to the Caucasian mountains. The story is narrated by George Cranleigh, a farmer\
+  \ who falls in love with Dariel, the daughter of a Caucasian prince. Dariel was\
+  \ the last of Blackmore's novels, published just over two years before his death.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2013-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42529'
+  wikidata: Q16257305
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Surrey (England) -- Fiction'
+title: 'Dariel: A Romance of Surrey'
+url: http://www.gutenberg.org/ebooks/42529
+wikipedia:
+- https://en.wikipedia.org/wiki/Dariel
